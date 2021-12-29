@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'obe-chc-prx'" />
-    <option name="defaultScopeName" value="Project 'obe-chc-prx'" />
-    <option name="SEARCH_SCOPE" value="Project 'obe-chc-prx'" />
+    <option name="customScope" value="File '…\chc-api\pom.xml [chc-api]'" />
+    <option name="defaultScopeName" value="File '…\chc-api\pom.xml [chc-api]'" />
+    <option name="SEARCH_SCOPE" value="File '…\chc-api\pom.xml [chc-api]'" />
   </component>
 </application>
